@@ -23,11 +23,6 @@ Read or watch:
 
 ### [7. OMG WHY ARE YOU SHOUTING?](./7-OMG_WHY_ARE_YOU_SHOUTING.rb)
 
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
-
 -----
 
 
